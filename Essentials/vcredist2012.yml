@@ -7,10 +7,10 @@ Dependencies: []
 Steps:
 - action: install_exe
   file_name: vcredist_x86.exe
-  url: https://download.microsoft.com/download/5/B/C/5BC5DBB3-652D-4DCE-B14A-475AB85EEF6E/vcredist_x86.exe
+  url: https://download.microsoft.com/download/1/6/b/16b06f60-3b20-4ff2-b699-5e9b7962f9ae/VSU_4/vcredist_x86.exe
   rename: vcredist2012_x86.exe
-  file_checksum: 5faedf5ae484adcb842bec6aa14ae8d9
-  file_size: 5076456
+  file_checksum: 7f52a19ecaf7db3c163dd164be3e592e
+  file_size: 6554576
   arguments: /q
 
 - action: install_exe
