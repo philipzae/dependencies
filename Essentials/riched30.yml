@@ -28,3 +28,7 @@ Steps:
 - action: override_dll
   dll: riched20
   type: native,builtin
+
+- action: override_dll
+  dll: msls31
+  type: native,builtin
